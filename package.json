@@ -1,0 +1,19 @@
+{
+  "name": "005-url-shortner-node-express-mongo-web-dev-simplified",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "mongoose": "^6.4.3",
+    "shortid": "^2.2.16"
+  }
+}
